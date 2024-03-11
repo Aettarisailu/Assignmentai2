@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+.addtask{
+  background-color: blue;
+  color: white;
+  border-style: none;
+  margin: 25px;
+  width: 125px;
+  height: 30px;
+  border-radius: 5px;
+}
+.input{
+  width: 350px;
+  height: 30px;
+  border-radius: 5px;
+  border-style: none;
+}
